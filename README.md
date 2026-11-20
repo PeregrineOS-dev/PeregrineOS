@@ -1,4 +1,4 @@
-```markdown
+
 # PeregrineOS
 
 ### Take flight and make it yours.
@@ -61,6 +61,6 @@ Review the options before installing software, and choose only the profiles that
 PeregrineOS is an independent community project. Arch Linux is a trademark of its respective owner.
 
 **PeregrineOS — take flight and make it yours!**
-```
+
 
 Created by abd el nasser Elkhattabi
