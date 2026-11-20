@@ -11,3 +11,6 @@ Choose the applications, tools, and desktop environment that suit you. Whether y
 Boot the live ISO and follow the on-screen guide to connect to the internet and install your system with `archinstall`. After installation, choose the software and desktop environment you want.
 
 **PeregrineOS — take flight and make it yours!**
+
+
+# Created by abd el nasser Elkhattabi
